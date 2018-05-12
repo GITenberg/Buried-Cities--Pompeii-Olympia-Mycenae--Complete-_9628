@@ -1,10 +1,8 @@
 _repo: Buried-Cities--Pompeii-Olympia-Mycenae--Complete-_9628
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 9628/9628-h/images/titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hall, Jennie
@@ -13,6 +11,8 @@ creator:
     gutenberg_agent_id: '3107'
     url: http://www.gutenberg.org/2009/agents/3107
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9628#Buried-Cities--Pompeii-Olympia-Mycenae--Complete-
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2004-08-10'
 gutenberg_type: Text
